@@ -1,7 +1,7 @@
 ## Oi, meu nome é Lucas Fonte
 
 - 💻 Hoje trabalho com back-end
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 📌 Campinas, SP, Brasil
 
 <div>
