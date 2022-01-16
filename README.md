@@ -1,4 +1,4 @@
-## Olá, meu nome é Lucas Fonte!
+## Hi, my name is Lucas Fonte!
 
 - 💻 Today I work with full-stack web development
 - 📚 Studying Systems Analysis and Development
