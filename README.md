@@ -1,6 +1,6 @@
 ## Hi, my name is Lucas Fonte!
 
-- 💻 Today I work with web and mobile development
+- 💻 Currently working in the field of Web and Mobile Development as back-end developer
 - 📚 Studying Systems Analysis and Development
 - 📌 Campinas, SP, Brazil
   
@@ -11,7 +11,6 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Lucas-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
   
 ##
