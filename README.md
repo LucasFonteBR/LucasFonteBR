@@ -2,7 +2,7 @@
 
 - 💻 Currently working in the field of Web and Mobile Development as back-end developer
 - 📚 Studying Systems Analysis and Development
-- 📌 Campinas, SP, Brazil
+- 📌 Campinas, São Paulo, Brazil
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
