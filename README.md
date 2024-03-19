@@ -1,6 +1,6 @@
 ## Hi, my name is Lucas Fonte!
 
-- 💻 Currently working in the field of Web and Mobile Development as back-end developer
+- 💻 Currently working in the field of Web Development as full-stack developer
 - 📚 Studying Systems Analysis and Development
 - 📌 Campinas, São Paulo, Brazil
 <div style="display: inline_block"><br>
